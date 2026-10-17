@@ -1,0 +1,6 @@
+{
+  "name": "Three-Factor Authentication Access Control System (3FA)",
+  "description": "Enterprise Three-Factor Authentication (3FA) access control system combining PIN knowledge, RFID tokenisation via SHA-256, and OpenCV facial biometric verification with FAR/FRR evaluation.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
